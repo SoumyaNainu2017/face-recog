@@ -1,0 +1,31 @@
+  body
+  {
+    color: rgb(216, 118, 118);
+    background: line;
+    background-color: rgb(64, 184, 114);
+  }
+  .heading
+  {
+    width: 50%;
+    font-size: 25px;
+   
+    font-family: 'Zen Kurenaido', sans-serif;
+  }
+  #camera 
+  {
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px; 
+  }
+
+
+
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: blue;
+  }
+
+  p,b{
+    font-family: 'Style Script', cursive;
+    font-size :30px;
+  }
